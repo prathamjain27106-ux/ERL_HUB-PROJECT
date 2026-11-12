@@ -106,9 +106,8 @@ No third-party libraries are required.
 
 ``` text
 .
-├── ERL_HUB_Project_Corrected.cpp   # Main C++ source code
+├── ERL_HUB_PROJECT.cpp   # Main C++ source code
 ├── README.md                       # Project documentation
-└── transit_log.bin                 # Generated at runtime; do not commit
 ```
 
 The binary log is created in the program's current working directory
